@@ -1,0 +1,2 @@
+Ingresar numero
+La suma de los digitos es 12
